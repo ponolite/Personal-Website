@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-# Bio
+# Bioraphy
 
 A scribbler at heart who loves UX Design, Graphic Design and Writing, I strive for aesthetic & functional designs that amplify human connections.
 
