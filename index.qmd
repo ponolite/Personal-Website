@@ -1,11 +1,10 @@
 ---
 title: "Website"
+cv:
+  pdf:"Quang_Mai_CV.pdf"
 ---
 
-This is a Quarto website. I  need help WITH MY LIFE! PLEASE
+## Xin chào! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Quang Mai,  an aspiring UX Designer with a background in Graphic Design. I strive for aesthetic & functional designs that amplify human connections! In my free time, you can catch me watching Tsai Ming-liang's Vive l'amour, skimming Dribbble for UX inspirations and reading Wikipedia entries.
 
-```{r}
-1 + 1
-```
